@@ -31,8 +31,6 @@ dependencies:
     sdk: flutter
 
   bubble: ^1.2.1
-  image_picker: ^0.8.4+9
-  just_audio: ^0.9.20
   flutter_barcode_scanner: ^2.0.0
 
   # The following adds the Cupertino Icons font to your application.
