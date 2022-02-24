@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:bubble/bubble.dart';
+import 'package:bubble/issue_clipper.dart';
 
 void main() {
   runApp(const MyApp());
